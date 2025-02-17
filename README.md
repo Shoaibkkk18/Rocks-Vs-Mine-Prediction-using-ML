@@ -28,6 +28,9 @@ Model Training
 Split dataset into training and testing sets
 Train
 
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 Acknowledgments
 UCI Machine Learning Repository for providing the dataset.
 
